@@ -1,3 +1,8 @@
+gends_GR.2.html‎
++81
+Lines changed: 81 additions & 0 deletions
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,81 @@
 <!DOCTYPE html>
 <html lang="el">
 <head>
@@ -36,14 +41,12 @@ footer{text-align:center;padding:30px;border-top:1px solid #d4af37;color:#d4af37
 </ul>
 </nav>
 </header>
-
 <section class="hero">
 <h1>STREET LEGENDS GR</h1>
 <p>Εκεί που τα αυτοκίνητα γίνονται θρύλοι.</p>
 <p>📅 Επόμενη συνάντηση: 17/07/2026 - 18:00</p>
 <a class="btn" href="#events">Δείτε περισσότερα</a>
 </section>
-
 <section id="gallery">
 <h2>📸 Gallery</h2>
 <div class="grid">
@@ -53,27 +56,22 @@ footer{text-align:center;padding:30px;border-top:1px solid #d4af37;color:#d4af37
 <div class="card">Classic Cars</div>
 </div>
 </section>
-
 <section id="projects">
 <h2>🏆 Project Cars</h2>
 <div class="card">Παρουσίαση αυτοκινήτων μελών και βελτιώσεων.</div>
 </section>
-
 <section id="events">
 <h2>🚗 Συναντήσεις & Events</h2>
 <div class="card">Επόμενο Meet: 17/07/2026 - 18:00</div>
 </section>
-
 <section id="news">
 <h2>📰 Ανακοινώσεις</h2>
 <div class="card">Έρχεται συνάντηση! Σας περιμένουμε όλους.</div>
 </section>
-
 <section id="contact">
 <h2>📞 Επικοινωνία</h2>
 <div class="card">Instagram: @street_legends_gr</div>
 </section>
-
 <footer>
 Street Legends GR • Drive • Meet • Respect
 </footer>
